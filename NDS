@@ -1,0 +1,2 @@
+if game:GetService("Workspace")[plr.Name]:FindFirstChild("FallDamageScript") then
+game:GetService("Workspace")[plr.Name]:FindFirstChild("FallDamageScript"):Destroy()
